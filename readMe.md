@@ -1,6 +1,6 @@
 
 ## **Project Description**  
-**Feedbacker** is an AI-powered feedback system that classifies user reviews and sends personalized responses via email. It utilizes OpenAI’s GPT-4o for sentiment classification and generates appropriate feedback for positive and neutral reviews. If the review is negative, no response is generated, and an agent is notified. The system also integrates an email-sending functionality using Google SMTP.  
+**Feedbacker** is an AI-powered feedback system that classifies user reviews and sends personalized responses via email. It utilizes OpenAI’s GPT-4o for sentiment classification and generates appropriate feedback for positive and neutral reviews. If the review is negative, no response is generated, and an agent is notified. The system also integrates an email-sending functionality using Google SMTP.
 
 ### **Features:**  
 - **AI-Powered Sentiment Analysis**: Classifies reviews into positive, neutral, or negative.  
