@@ -48,7 +48,3 @@ Modify `config.yaml` to update prompts and email settings.
 ## License
 
 This project is licensed under the MIT License.
-
-## Author
-
-Developed by [Shaukat Ali Khan](https://github.com/Shaukataliii)
